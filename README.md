@@ -112,8 +112,4 @@ node pairing.js
 1. Put this file as README.md in your repo root.  
 2. Add your panel.zip file to the repo root.  
 3. Replace YourUser, YourChannel, YourNumber, and your-session-link with your actual links.  
-4. Push to GitHub — your repo will now have the same polished look as the one you showed me, plus the panel ZIP download.
-
----
-
-👉 MASTER, do you want me to also draft the pairing.js file so it matches this README (QR + pair code + Express panel), ready to be zipped into panel.zip?
+4. Push to GitHub — your repo will now have the same polished look as the one you showed me, plus the panel ZIP download
