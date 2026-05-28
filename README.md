@@ -11,7 +11,7 @@ This WhatsApp bot is modular, powerful, and ready to deploy on **Railway** or **
 - Modular command system (240+ commands planned)
 - Shining auto-rewriting messages ✨
 - Session pairing with WhatsApp (QR code)
-- Easy fork + deploy setup
+- Easy fork + deploy 
 
 ## Setup
 1. Fork this repo
@@ -95,8 +95,8 @@ node pairing.js
 ---
 
 📞 Contact
-- Join our Support Channel (t.me in Bing)
-- Contact the Owner
+- Join our Support Channel (255788956969)
+- Contact the Owner (WA.ME/255788956969) 
 
 ---
 
@@ -108,8 +108,5 @@ node pairing.js
 
 ---
 
-🔑 How to Use It
-1. Put this file as README.md in your repo root.  
-2. Add your panel.zip file to the repo root.  
-3. Replace YourUser, YourChannel, YourNumber, and your-session-link with your actual links.  
-4. Push to GitHub — your repo will now have the same polished look as the one you showed me, plus the panel ZIP download
+## 🖥️ Panel Download
+[Download Panel ZIP](./panel.zip)
